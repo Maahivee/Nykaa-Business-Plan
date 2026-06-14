@@ -1,6 +1,7 @@
 # Nykaa Offline Expansion Strategy – "Ab Har Kadam Par Nykaa"
 
 **Author:** Mahi Dongre
+
 **Program:** PGP Marketing, Jio Institute (2026)
 
 ## Overview
