@@ -1,11 +1,11 @@
-# Nykaa Offline Expansion Strategy – "Ab Har Ghar Rangeen"
+# Nykaa Offline Expansion Strategy – "Ab Har Kadam Par Nykaa"
 
 **Author:** Mahi Dongre
 **Program:** PGP Marketing, Jio Institute (2026)
 
 ## Overview
 
-**"Ab Har Ghar Rangeen"** is a scalable offline expansion strategy designed to transform Nykaa from India's leading online beauty platform into India's most trusted omnichannel beauty ecosystem.
+**"Ab Har Kadam Par Nykaa"** is a scalable offline expansion strategy designed to transform Nykaa from India's leading online beauty platform into India's most trusted omnichannel beauty ecosystem.
 
 While Nykaa has built a strong digital presence, over 90% of beauty purchases in India still occur offline. This report explores a high-impact, asset-light growth model that enables Nykaa to rapidly expand its physical reach, combat counterfeit beauty products, and unlock underserved markets across Tier 1, Tier 2, and Tier 3 cities.
 
