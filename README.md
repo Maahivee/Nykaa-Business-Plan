@@ -17,6 +17,7 @@ Through the proposed **Nykaa Authorized Beauty Partner (NABP)** network, the str
 * Market gap analysis of India's offline beauty sector
 * Counterfeit cosmetics challenge and authenticity opportunity
 * Mumbai expansion case study and revenue potential
+* 3 Stages GTM stratergies. 
 * NABP partner-network business model
 * Financial feasibility and scalability projections
 * Tier 2/3 and rural India expansion roadmap
